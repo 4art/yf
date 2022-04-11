@@ -49,3 +49,4 @@ build/
 # IDE settings
 .vscode
 /cmake-build-debug/
+.idea
